@@ -3,3 +3,4 @@
 ### Git Interview
 
 * Do you know GIT?
+A: no
