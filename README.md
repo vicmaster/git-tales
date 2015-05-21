@@ -1,15 +1,15 @@
 # Learning GIT step by step
 
-### Git Interview
+## Learning with an Interview
 
-* Do you know GIT?
+* **Do you know GIT?**
 
-**A:** no
+	**A:** no
 
-* why this programm is so petardo?
+* **why this programm is so petardo?**
 
-**A:** Because you need more practice until you don't feel like this.
+	**A:** Because you need more practice until you don't feel like this.
 
-* What "git add" command does?
+* **What "git add" command does?**
 
-**A:**
+	**A:**
