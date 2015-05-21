@@ -21,6 +21,13 @@
 
 * **What "git pull" command does?**
 
+	**A:** This command download the updates and introduce new changes
+
 * **What "git clone" command does?**
 
+	**A:** Download and copy repository 
+
 * **What "git push" command does?**
+
+	**A:** The command 'git push', up commits to Github
+
