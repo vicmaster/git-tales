@@ -18,3 +18,9 @@
 * **What "git commit" command does?**
 
 	**A:** The command 'git commit' creates a new version of the code.
+
+* **What "git pull" command does?**
+
+* **What "git clone" command does?**
+
+* **What "git push" command does?**
