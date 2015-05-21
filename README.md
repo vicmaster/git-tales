@@ -12,4 +12,5 @@
 
 * **What "git add" command does?**
 
-	**A:**
+	**A:** This command prepare the document 
+	to upload
