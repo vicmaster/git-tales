@@ -15,4 +15,6 @@
 	**A:** This command prepare the document 
 	to upload
 
-* **Wha "git commit" command does?**
+* **What "git commit" command does?**
+
+	**A:** The command 'git commit' creates a new version of the code.
