@@ -16,4 +16,5 @@
 	to upload
 
 * **What "git commit" command does?**
-	 **A:** The command 'git commit' creates a new version of the code.
+
+	**A:** The command 'git commit' creates a new version of the code.
